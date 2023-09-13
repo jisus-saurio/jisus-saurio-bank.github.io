@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(rgb(162, 0, 255), rgb(59, 121, 255));
+
+}
+
+#name {
+    margin-top: 15px;
+}
+#calcularBtn{
+    margin: 15px;
+}
